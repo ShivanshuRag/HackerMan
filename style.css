@@ -1,0 +1,15 @@
+html body {
+
+    height: 100%;
+    width: 100%;
+    font-size:larger;
+    text-align: center;
+}
+
+    
+
+body{
+
+    color: green;
+    background-color: rgb(3, 3, 3);
+}
